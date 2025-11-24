@@ -103,6 +103,5 @@ Open the Power BI file to view the dashboard
 
 Review the report and presentation in /reports
 
-📞 Contact
 
 If you’d like to discuss this project or explore collaboration, feel free to reach out!
